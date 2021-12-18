@@ -1,0 +1,14 @@
+body{
+	background-image: url(picje.jpg);
+	background-size: cover;
+}
+jaun{
+	color: blue;
+}
+home{
+	background-color:yellow;
+	color: brown;
+}
+span {
+	color: black;
+}
